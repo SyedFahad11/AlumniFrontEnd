@@ -1,0 +1,17 @@
+
+Sort and search option
+Save Alumni profile in Company
+Deploying on cloud
+
+Favicon on title
+Red Green Alerts
+Location based Highlight at Navbar
+Change Title Dynamically
+Dark Mode toggle Switch
+Loading spinner
+Top Loading Bar
+Sticky Navbar
+Font awesome icons in Navbar and other
+
+
+
